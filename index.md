@@ -1,11 +1,11 @@
 <!--
-.. title: Welcome
+.. title: EigenTheories Blog
 .. slug: index
 .. date: 2019-05-22 12:34:48 UTC+03:00
 .. tags:
 .. category:
 .. link:
-.. description: Welcome page
+.. description: About
 .. hidetitle: true
 -->
 
