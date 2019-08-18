@@ -1,0 +1,32 @@
+.prompt {
+  display: none;
+}
+
+//.output_png {
+//    display: table-cell;
+//    text-align: center;
+//    margin:auto;
+//    }
+
+.output .prompt {
+  display: initial;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 1px;
+}
+
+
+.post-heading {
+  color: #2C3E50 !important;
+}
+
+.bg-dark {
+  background-color: #2C3E50 !important;
+}
+
+.bg-dark.navbar-dark .navbar-nav .nav-link:focus,
+.bg-dark.navbar-dark .navbar-nav .nav-link:hover,
+.bg-dark.navbar-dark .navbar-nav .active > .nav-link {
+  color: #18BC9C !important;
+}
