@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>EigenTheories</title><link>https://www.eigentheories.com/</link><description>This is a personal site for sharing my thoughts and experience on the machine learning topics I care the most.</description><atom:link href="https://www.eigentheories.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:evgeny.frolov@outlook.com"&gt;Evgeny Frolov&lt;/a&gt; </copyright><lastBuildDate>Sun, 18 Aug 2019 10:24:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>To SVD or not to SVD [a primer on fair evaluation of recommender systems]</title><link>https://www.eigentheories.com/blog/to-svd-or-not-to-svd/</link><dc:creator>Evgeny Frolov</dc:creator><description>&lt;div&gt;&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>EigenTheories</title><link>https://www.eigentheories.com/</link><description>This is a personal site for sharing my thoughts and experience on the machine learning topics I care the most.</description><atom:link href="https://www.eigentheories.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:evgeny.frolov@outlook.com"&gt;Evgeny Frolov&lt;/a&gt; </copyright><lastBuildDate>Sun, 18 Aug 2019 11:24:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>To SVD or not to SVD [a primer on fair evaluation of recommender systems]</title><link>https://www.eigentheories.com/blog/to-svd-or-not-to-svd/</link><dc:creator>Evgeny Frolov</dc:creator><description>&lt;div&gt;&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
 &lt;/div&gt;&lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;h2 id="Introduction"&gt;Introduction&lt;a class="anchor-link" href="https://www.eigentheories.com/blog/to-svd-or-not-to-svd/#Introduction"&gt;¶&lt;/a&gt;&lt;/h2&gt;
@@ -2082,15 +2082,4 @@ Note that all models give approximately the same quality at the optimal rank of 
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>cross-validation</category><category>evaluation</category><category>iALS</category><category>matrix factorization</category><category>Polara</category><category>SVD</category><category>tuning</category><category>tutorial</category><guid>https://www.eigentheories.com/blog/to-svd-or-not-to-svd/</guid><pubDate>Sun, 18 Aug 2019 07:10:40 GMT</pubDate></item><item><title>About this blog</title><link>https://www.eigentheories.com/blog/about-this-blog/</link><dc:creator>Evgeny Frolov</dc:creator><description>&lt;div&gt;&lt;h3&gt;What is this blog about&lt;/h3&gt;
-&lt;p&gt;Algebraic view on problems, which is also reflected in the name of this site.
-Link between pure math and practical applications.
-I'm especially interested in addressing practical challenges with the help of both classic results and recent advances in pure math disciplines.&lt;/p&gt;
-&lt;p&gt;Eigen - Eugene&lt;/p&gt;
-&lt;p&gt;This personal website also hosts my blog, where I publish my thoughts on the topics I value the most.
-Personal page with information about me
-Hosts my thoughts and ideas in the form of blog posts.&lt;/p&gt;
-&lt;p&gt;This site serves as my personal page as well as the&lt;/p&gt;
-&lt;p&gt;I blog mostly about recommender systems and reproducibility of research.&lt;/p&gt;
-&lt;p&gt;Here I'll write about things that I value the most in machine learning. In that sense the blog reflects my "eigen" values.
-I'm also an advocate and a big fan of pure math, hence "theories".
-The beauty of mathematically sound formulations fascinates me and I firmly believe that tying it with real world problems may have a great positive impact on practical solutions.&lt;/p&gt;&lt;/div&gt;</description><guid>https://www.eigentheories.com/blog/about-this-blog/</guid><pubDate>Sat, 17 Aug 2019 15:45:38 GMT</pubDate></item></channel></rss>
+&lt;p&gt;To be updated&lt;/p&gt;&lt;/div&gt;</description><guid>https://www.eigentheories.com/blog/about-this-blog/</guid><pubDate>Sat, 17 Aug 2019 15:45:38 GMT</pubDate></item></channel></rss>
