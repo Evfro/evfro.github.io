@@ -6,8 +6,12 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://www.eigentheories.com/categories/blog.xml</loc>
+  <lastmod>2019-09-02T09:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.eigentheories.com/categories/cat_blog.xml</loc>
-  <lastmod>2019-08-18T11:24:00Z</lastmod>
+  <lastmod>2019-09-02T09:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.eigentheories.com/categories/cat_recommender-systems.xml</loc>
@@ -47,10 +51,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.eigentheories.com/rss.xml</loc>
-  <lastmod>2019-08-18T11:24:00Z</lastmod>
+  <lastmod>2019-09-02T09:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.eigentheories.com/sitemap.xml</loc>
-  <lastmod>2019-08-18T12:13:00Z</lastmod>
+  <lastmod>2019-09-02T09:04:00Z</lastmod>
  </sitemap>
 </sitemapindex>
