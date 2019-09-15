@@ -11,15 +11,23 @@
  </url>
  <url>
   <loc>https://www.eigentheories.com/archive.html</loc>
-  <lastmod>2019-09-02T09:04:00Z</lastmod>
+  <lastmod>2019-09-15T13:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.eigentheories.com/blog/</loc>
-  <lastmod>2019-08-18T10:28:00Z</lastmod>
+  <lastmod>2019-09-15T12:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.eigentheories.com/blog/about-this-blog/</loc>
   <lastmod>2019-08-17T15:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.eigentheories.com/blog/lightfm-vs-hybridsvd/</loc>
+  <lastmod>2019-09-15T12:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.eigentheories.com/blog/outperforming-lightfm-with-hybridsvd-in-cold-start/</loc>
+  <lastmod>2019-09-15T09:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.eigentheories.com/blog/to-svd-or-not-to-svd/</loc>
@@ -27,7 +35,7 @@
  </url>
  <url>
   <loc>https://www.eigentheories.com/categories/</loc>
-  <lastmod>2019-09-02T08:10:00Z</lastmod>
+  <lastmod>2019-09-15T09:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.eigentheories.com/categories/blog/</loc>
@@ -42,6 +50,10 @@
   <lastmod>2019-08-17T15:13:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.eigentheories.com/categories/cold-start/</loc>
+  <lastmod>2019-09-15T09:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.eigentheories.com/categories/cross-validation/</loc>
   <lastmod>2019-08-17T14:37:00Z</lastmod>
  </url>
@@ -50,8 +62,16 @@
   <lastmod>2019-08-17T14:37:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.eigentheories.com/categories/hybridsvd/</loc>
+  <lastmod>2019-09-15T09:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.eigentheories.com/categories/ials/</loc>
   <lastmod>2019-08-17T14:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.eigentheories.com/categories/lightfm/</loc>
+  <lastmod>2019-09-15T09:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.eigentheories.com/categories/matrix-factorization/</loc>
