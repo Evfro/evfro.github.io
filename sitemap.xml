@@ -11,7 +11,7 @@
  </url>
  <url>
   <loc>https://www.eigentheories.com/archive.html</loc>
-  <lastmod>2019-09-15T13:46:00Z</lastmod>
+  <lastmod>2019-09-15T19:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.eigentheories.com/blog/</loc>
@@ -24,10 +24,6 @@
  <url>
   <loc>https://www.eigentheories.com/blog/lightfm-vs-hybridsvd/</loc>
   <lastmod>2019-09-15T12:57:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.eigentheories.com/blog/outperforming-lightfm-with-hybridsvd-in-cold-start/</loc>
-  <lastmod>2019-09-15T09:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.eigentheories.com/blog/to-svd-or-not-to-svd/</loc>
